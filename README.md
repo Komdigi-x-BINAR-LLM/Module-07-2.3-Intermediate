@@ -1,4 +1,4 @@
-# Module-07-2.3-Intermediate-
+# Module-07-2.3-Intermediate
 Finetuning LLM
 
 # Hands-on Komdigi: Modul 2.3 - Fine-Tuning Llama-3 dengan Unsloth
